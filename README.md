@@ -1,4 +1,4 @@
-# Hi, I'm Aadi Sanghvi 👋
+
 
 [![Followers](https://img.shields.io/github/followers/asanghv2?label=Followers&style=flat-square)](https://github.com/asanghv2)
 [![Public Repos](https://img.shields.io/badge/Public%20Repos-6-blue?style=flat-square)](https://github.com/asanghv2?tab=repositories)
