@@ -2,6 +2,7 @@
 
 [![Followers](https://img.shields.io/github/followers/asanghv2?label=Followers&style=flat-square)](https://github.com/asanghv2)
 [![Public Repos](https://img.shields.io/badge/Public%20Repos-6-blue?style=flat-square)](https://github.com/asanghv2?tab=repositories)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&width=435&lines=Hi+I+am+Aadi!)](https://git.io/typing-svg)
 
 ## About Me
 I'm a Computer Science student at the **University of Western Ontario** passionate about building innovative projects with AI, web technologies, and automation. I love working on full-stack applications, AI/ML solutions, and browser extensions.
